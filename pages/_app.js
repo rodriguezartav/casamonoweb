@@ -1,3 +1,5 @@
+import "../styles/index.css";
+
 import React, { useEffect } from "react";
 
 import Head from "next/head";
@@ -8,7 +10,6 @@ import { useMutate } from "data/Visitor/Context";
 
 import Alerts from "../components/alert/Alerts";
 
-import "../styles/index.css";
 import Router from "next/router";
 
 import * as gtag from "../data/Gtag";
