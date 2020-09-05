@@ -130,7 +130,7 @@ Leaving: "duration-100 ease-in"
   From: "opacity-100 scale-100"
   To: "opacity-0 scale-95"
     */}
-        <div className="absolute top-0 inset-x-0 p-2 transition transform origin-top-right md:hidden">
+        <div className="absolute top-0 inset-x-0 p-2 transition transform origin-top-right hidden">
           <div className="rounded-lg shadow-md">
             <div
               className="rounded-lg bg-white shadow-xs overflow-hidden"
