@@ -51,7 +51,7 @@ export default function Header() {
             <div className="flex items-center justify-between w-full md:w-auto">
               <a href="#" aria-label="Home">
                 <img
-                  className="h-16 w-auto sm:h-32"
+                  className="h-20 w-auto sm:h-32"
                   src="logo.png"
                   alt="Logo"
                 />

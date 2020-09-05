@@ -188,12 +188,6 @@ export default function Details() {
                   fill="url(#ca9667ae-9f92-4be7-abcb-9e3d727f2941)"
                 />
               </svg>
-              <img
-                className="relative mx-auto"
-                width={490}
-                src="https://tailwindui.com/img/features/feature-example-1.png"
-                alt
-              />
             </div>
           </div>
           <svg
@@ -341,46 +335,6 @@ export default function Details() {
                     </div>
                   </li>
                 </ul>
-              </div>
-              <div className="mt-10 -mx-4 relative lg:mt-0 lg:col-start-1">
-                <svg
-                  className="absolute left-1/2 transform -translate-x-1/2 translate-y-16 lg:hidden"
-                  width={784}
-                  height={404}
-                  fill="none"
-                  viewBox="0 0 784 404"
-                >
-                  <defs>
-                    <pattern
-                      id="e80155a9-dfde-425a-b5ea-1f6fadd20131"
-                      x={0}
-                      y={0}
-                      width={20}
-                      height={20}
-                      patternUnits="userSpaceOnUse"
-                    >
-                      <rect
-                        x={0}
-                        y={0}
-                        width={4}
-                        height={4}
-                        className="text-gray-200"
-                        fill="currentColor"
-                      />
-                    </pattern>
-                  </defs>
-                  <rect
-                    width={784}
-                    height={404}
-                    fill="url(#e80155a9-dfde-425a-b5ea-1f6fadd20131)"
-                  />
-                </svg>
-                <img
-                  className="relative mx-auto"
-                  width={490}
-                  src="https://tailwindui.com/img/features/feature-example-2.png"
-                  alt
-                />
               </div>
             </div>
           </div>
