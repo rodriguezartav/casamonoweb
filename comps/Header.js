@@ -232,7 +232,7 @@ Leaving: "duration-100 ease-in"
           />
         </div>
 
-        <div className="w-5/12 text-center text-gray-500 text-lg mx-auto mt-20">
+        <div className="max-w-5xl text-center text-gray-500 text-lg mx-auto mt-20">
           It's where the jungle meets the beach with nothing and noone around.
           <br />
           Carefully designed spaces meant to connect with nature while providing
@@ -242,7 +242,7 @@ Leaving: "duration-100 ease-in"
 
         <main className="mt-6 mx-auto max-w-screen-md  sm:mt-16  ">
           <div className="text-center">
-            <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-yellow-900 sm:text-5xl sm:leading-none md:text-6xl">
+            <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-green-900 sm:text-5xl sm:leading-none md:text-6xl">
               The Pachamama retreat
               <br className="xl:hidden" />
               <span className="text-green-600"> for family and friends</span>
