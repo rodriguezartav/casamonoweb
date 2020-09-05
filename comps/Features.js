@@ -7,9 +7,9 @@ export default function Features() {
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
             <p className="mb-12 mt-12 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-              You'll feel like you are renting a national park all for yourself.
-              A private beach front jungle filled with wildlife and 5 star
-              resort ameneties for 1 to 25 people.
+              You'll feel like you're renting a national park all for yourself.
+              A private beach, a jungle filled with wildlife and hotel ameneties
+              for 1 to 25 people.
               <br />
             </p>
           </div>
@@ -41,9 +41,9 @@ export default function Features() {
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       Do what you want, when you want free of charge. Choose
-                      from surfing or paddleboarding, tree climbing, hiking,
-                      wildlife watching, mountain bikining and nature
-                      photography.
+                      from surfing or paddleboarding, fishing, tree climbing,
+                      swinging, hiking, wildlife watching, mountain bikining,
+                      horseback riding and nature photography.
                     </p>
                   </div>
                 </div>
@@ -74,7 +74,7 @@ export default function Features() {
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       We got the best matrices, pillows and bedsheets - Smart
                       temperature controls on the rooms. Natural soaps and oils
-                      that you'll love. Lot's of comfy place to relax and take a
+                      that you'll love. Lot's of comfy place to relax and take
                       naps. You'll be rested and have the best sleep ever.
                     </p>
                   </div>

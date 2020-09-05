@@ -44,15 +44,12 @@ export default function Details() {
                 Why stay with us?
               </h4>
               <p className="mt-3 text-lg leading-7 text-gray-500">
-                We are a family operated 100% costarrican ecological project -
-                our mission is about creating spaces for connection with mother
+                We are a family owned 100% costarrican ecological project - our
+                mission is about creating spaces for connection with mother
                 nature. Consider us if you are looking for an authentic and
                 fulfilling expedition.
               </p>
-              <p className="mt-0 text-sm leading-7 text-green-800">
-                We aren't a tourism company and avoid the Expedia Group & AirBnb
-                side of the internet.
-              </p>
+
               <ul className="mt-10">
                 <li>
                   <div className="flex">
@@ -115,7 +112,7 @@ export default function Details() {
                         Our role is to create the conditions so that you can
                         truly realize where you are and hopefully that this
                         place gives you the most beautiful gift: remembering
-                        where your belong.
+                        where you belong.
                       </p>
                     </div>
                   </div>
@@ -229,7 +226,7 @@ export default function Details() {
                   What kind of retreat is it?
                 </h4>
                 <p className="mt-3 text-lg leading-7 text-gray-500">
-                  In a way it's retreat of mother nature. There are no gurus,
+                  In a way it's a retreat of mother nature. There are no gurus,
                   teachers, no classes, no lectures and no schedules. Definetly
                   no rules and no dogmas! At least not between humans. Our part
                   is to set the conditions for the magic to happend and let the
