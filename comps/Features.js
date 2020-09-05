@@ -6,7 +6,7 @@ export default function Features() {
       <div className="bg-white">
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
-            <p className="my-12 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+            <p className="mb-12 mt-12 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
               You'll feel like you are renting a national park all for yourself.
               A private beach front jungle filled with wildlife and 5 star
               resort ameneties for 1 to 25 people.

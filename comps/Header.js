@@ -240,8 +240,8 @@ Leaving: "duration-100 ease-in"
           included
         </div>
 
-        <main className="mt-6 mx-auto max-w-screen-md  sm:mt-16  ">
-          <div className="text-center">
+        <main className="mt-6 mx-auto max-w-2xl sm:mt-16  ">
+          <div className="text-center max-w-2xl">
             <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-green-900 sm:text-5xl sm:leading-none md:text-6xl">
               The Pachamama retreat
               <br className="xl:hidden" />
