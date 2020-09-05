@@ -1,5 +1,3 @@
-import "../styles/index.css";
-
 import React, { useEffect } from "react";
 
 import Head from "next/head";
@@ -14,12 +12,15 @@ import Router from "next/router";
 
 import * as gtag from "../data/Gtag";
 
+import "../styles/index.css";
+
 export default function MyApp(props) {
   const { Component, pageProps } = props;
   const ref = React.useRef(null);
 
-  const [ping, {}] = useMutate("visitors/ping");
+  //const [ping, {}] = useMutate("visitors/ping");
 
+  /*
   useEffect(() => {
     const handleRouteChange = (url) => {
       gtag.pageview(url);
@@ -31,11 +32,11 @@ export default function MyApp(props) {
       Router.events.off("routeChangeComplete", handleRouteChange);
     };
   }, []);
-
+*/
   return (
     <Provider>
       <Head>
-        <title>rodriguezlabs.co</title>
+        <title>The Monkey House</title>
       </Head>
       <Component {...pageProps} />
 

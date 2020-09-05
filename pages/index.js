@@ -1,6 +1,5 @@
 import Head from "next/head";
 import { useRouter } from "next/router";
-import "../styles/index.css";
 
 import Features from "../comps/Features";
 import Blog from "../comps/Blog";
