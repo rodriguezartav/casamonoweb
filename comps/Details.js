@@ -49,7 +49,7 @@ export default function Details() {
                 nature. Consider us if you are looking for an authentic and
                 fulfilling expedition.
               </p>
-              <p className="mt-0 text-sm leading-7 text-purple-500">
+              <p className="mt-0 text-sm leading-7 text-green-800">
                 We aren't a tourism company and avoid the Expedia Group & AirBnb
                 side of the internet.
               </p>
@@ -57,7 +57,7 @@ export default function Details() {
                 <li>
                   <div className="flex">
                     <div className="flex-shrink-0">
-                      <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                      <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                         <svg
                           className="h-6 w-6"
                           fill="none"
@@ -75,14 +75,15 @@ export default function Details() {
                     </div>
                     <div className="ml-4">
                       <h5 className="text-lg leading-6 font-medium text-gray-900">
-                        Who is us?
+                        Who are we?
                       </h5>
                       <p className="mt-2 text-base leading-6 text-gray-500">
-                        My nickname is monkey and I'm married to a biologist
-                        specialized in primates. We both arrive here in our
-                        youth and then Martino came along. When we arrived here
-                        something changed in us, something wonderfull. In a way
-                        we discovered our connection with mother nature.
+                        My nickname is monkey and this is my home. I'm married
+                        to a biologist specialized in primates. We both arrived
+                        here in our youth and then Martino came along. When we
+                        arrived here something changed in us, something
+                        wonderfull. In a way we discovered our connection with
+                        mother nature.
                       </p>
                     </div>
                   </div>
@@ -90,7 +91,7 @@ export default function Details() {
                 <li className="mt-10">
                   <div className="flex">
                     <div className="flex-shrink-0">
-                      <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                      <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                         <svg
                           className="h-6 w-6"
                           fill="none"
@@ -122,7 +123,7 @@ export default function Details() {
                 <li className="mt-10">
                   <div className="flex">
                     <div className="flex-shrink-0">
-                      <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                      <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                         <svg
                           className="h-6 w-6"
                           fill="none"
@@ -245,7 +246,7 @@ export default function Details() {
                   <li>
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                           <svg
                             className="h-6 w-6"
                             fill="none"
@@ -278,7 +279,7 @@ export default function Details() {
                   <li className="mt-10">
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                           <svg
                             className="h-6 w-6"
                             fill="none"
@@ -310,7 +311,7 @@ export default function Details() {
                   <li className="mt-10">
                     <div className="flex">
                       <div className="flex-shrink-0">
-                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                           <svg
                             className="h-6 w-6"
                             fill="none"

@@ -3,25 +3,23 @@ import React from "react";
 export default function Features() {
   return (
     <div>
-      <div className="py-12 bg-white">
+      <div className="bg-white">
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
-            <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
-              What is it?
-            </h3>
-            <p className="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-              It's where the jungle meets the beach with nothing and no one else
-              around. With carefully designed buildings meant to help you truly
-              connect with nature while providing an exclusive level of comfort.
+            <p className="my-12 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+              You'll feel like you are renting a national park all for yourself.
+              A private beach front jungle filled with wildlife and 5 star
+              resort ameneties for 1 to 25 people.
               <br />
             </p>
           </div>
-          <div className="mt-10">
+
+          <div className="">
             <ul className="md:grid md:grid-cols-2 md:col-gap-8 md:row-gap-10">
               <li>
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                       <svg
                         className="h-6 w-6"
                         fill="none"
@@ -53,7 +51,7 @@ export default function Features() {
               <li className="mt-10 md:mt-0">
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                       <svg
                         className="h-6 w-6"
                         fill="none"
@@ -85,7 +83,7 @@ export default function Features() {
               <li className="mt-10 md:mt-0">
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                       <svg
                         className="h-6 w-6"
                         fill="none"
@@ -117,7 +115,7 @@ export default function Features() {
               <li className="mt-10 md:mt-0">
                 <div className="flex">
                   <div className="flex-shrink-0">
-                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                    <div className="flex items-center justify-center h-12 w-12 rounded-md bg-yellow-500 text-white">
                       <svg
                         className="h-6 w-6"
                         fill="none"
@@ -135,13 +133,13 @@ export default function Features() {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-lg leading-6 font-medium text-gray-900">
-                      Hands-on working
+                      Work from paradise
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
-                      Working on a farm is cool there's lot's of tools, plants
-                      and animals to watch for. You'll work hands on along side
-                      locals which in our experience is the best way to get a
-                      true feeling for a place.
+                      Use our lounge to catch up on work, homescholing or full
+                      on remote work. Our internet connection is stable and
+                      super fast. We've been working remotly for more than
+                      decade.
                     </p>
                   </div>
                 </div>

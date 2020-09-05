@@ -45,13 +45,13 @@ export default function Header() {
           />
         </svg>
       </div>
-      <div className="relative pt-6 pb-16 md:pb-20 lg:pb-24 xl:pb-32">
+      <div className="relative pt-6">
         <nav className="relative max-w-screen-xl mx-auto flex items-center justify-between px-4 sm:px-6">
           <div className="flex items-center flex-1">
             <div className="flex items-center justify-between w-full md:w-auto">
               <a href="#" aria-label="Home">
                 <img
-                  className="h-24 w-auto sm:h-44"
+                  className="h-16 w-auto sm:h-32"
                   src="logo.png"
                   alt="Logo"
                 />
@@ -210,105 +210,43 @@ Leaving: "duration-100 ease-in"
             </div>
           </div>
         </div>
-        <main className="mt-8 mx-auto max-w-screen-xl px-4 sm:mt-12 sm:px-6 md:mt-20 xl:mt-24">
-          <div className="lg:grid lg:grid-cols-12 lg:gap-8">
-            <div className="sm:text-center md:max-w-2xl md:mx-auto lg:col-span-6 lg:text-left">
-              <div className="text-sm font-semibold uppercase tracking-wide text-gray-500 sm:text-base lg:text-sm xl:text-base">
-                Coming soon
-              </div>
-              <h2 className="mt-1 text-4xl tracking-tight leading-10 font-extrabold text-blue-800 sm:leading-none sm:text-6xl lg:text-5xl xl:text-6xl">
-                Beach & Jungle
-                <br className="hidden md:inline" />
-                <span className="text-green-700">
-                  retreat for your family & friends
-                </span>
-              </h2>
-              <p className="mt-3 text-base text-gray-500 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                Great sleep - healthy food - made to rest - free fun
-              </p>
+        <div
+          style={{
+            width: "100vw",
+            height: "40vh",
+            left: 0,
+            overflow: "hidden",
+          }}
+          className="vimeo-wrapper"
+        >
+          <iframe
+            style={{
+              widht: "100vw",
+              height: "50vh",
+            }}
+            src="https://player.vimeo.com/video/454816589?background=1&autoplay=1&loop=1&byline=0&title=0"
+            frameBorder={0}
+            webkitallowfullscreen
+            mozallowfullscreen
+            allowFullScreen
+          />
+        </div>
 
-              <div className="mt-5 sm:max-w-lg sm:mx-auto sm:text-center lg:text-left lg:mx-0">
-                <p className="text-base font-medium text-gray-900">
-                  Sign up to get notified when it’s ready.
-                </p>
-                <form action="#" method="POST" className="mt-3 sm:flex">
-                  <input
-                    aria-label="Email"
-                    className="appearance-none block w-full px-3 py-3 border border-gray-300 text-base leading-6 rounded-md placeholder-gray-500 shadow-sm focus:outline-none focus:placeholder-gray-400 focus:shadow-outline-blue focus:border-blue-300 transition duration-150 ease-in-out sm:flex-1"
-                    placeholder="Enter your email"
-                  />
-                  <button
-                    type="submit"
-                    className="mt-3 w-full px-6 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-gray-800 shadow-sm hover:bg-gray-700 focus:outline-none focus:border-gray-900 focus:shadow-outline-gray active:bg-gray-900 transition duration-150 ease-in-out sm:mt-0 sm:ml-3 sm:flex-shrink-0 sm:inline-flex sm:items-center sm:w-auto"
-                  >
-                    Notify me
-                  </button>
-                </form>
-                <p className="mt-3 text-sm leading-5 text-gray-500">
-                  We care about the protection of your data. Read our
-                  <a href="#" className="font-medium text-gray-900 underline">
-                    Privacy Policy
-                  </a>
-                  .
-                </p>
-              </div>
-            </div>
-            <div className="mt-12 relative sm:max-w-lg sm:mx-auto lg:mt-0 lg:max-w-none lg:mx-0 lg:col-span-6 lg:flex lg:items-center">
-              <svg
-                className="absolute top-0 left-1/2 transform -translate-x-1/2 -translate-y-8 scale-75 origin-top sm:scale-100 lg:hidden"
-                width={640}
-                height={784}
-                fill="none"
-                viewBox="0 0 640 784"
-              >
-                <defs>
-                  <pattern
-                    id="4f4f415c-a0e9-44c2-9601-6ded5a34a13e"
-                    x={118}
-                    y={0}
-                    width={20}
-                    height={20}
-                    patternUnits="userSpaceOnUse"
-                  >
-                    <rect
-                      x={0}
-                      y={0}
-                      width={4}
-                      height={4}
-                      className="text-gray-200"
-                      fill="currentColor"
-                    />
-                  </pattern>
-                </defs>
-                <rect
-                  y={72}
-                  width={640}
-                  height={640}
-                  className="text-gray-50"
-                  fill="currentColor"
-                />
-                <rect
-                  x={118}
-                  width={404}
-                  height={784}
-                  fill="url(#4f4f415c-a0e9-44c2-9601-6ded5a34a13e)"
-                />
-              </svg>
-              <div className="relative mx-auto w-full rounded-lg shadow-lg lg:max-w-md">
-                <button
-                  type="button"
-                  className="relative block w-full rounded-lg overflow-hidden focus:outline-none focus:shadow-outline"
-                ></button>
-                <iframe
-                  src="https://player.vimeo.com/video/454816589"
-                  width="640"
-                  height="360"
-                  frameborder="0"
-                  allow="autoplay; fullscreen"
-                  allowfullscreen
-                ></iframe>
-              </div>
-            </div>
+        <div className="w-5/12 text-center text-gray-500 text-lg mx-auto mt-20">
+          It's where the jungle meets the beach with nothing and noone around.
+          <br />
+          Carefully designed spaces meant to connect with nature while providing
+          an exclusive level of comfort with great food and all activities
+          included
+        </div>
+
+        <main className="mt-6 mx-auto max-w-screen-md  sm:mt-16  ">
+          <div className="text-center">
+            <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-yellow-900 sm:text-5xl sm:leading-none md:text-6xl">
+              The Pachamama retreat
+              <br className="xl:hidden" />
+              <span className="text-green-600"> for family and friends</span>
+            </h2>
           </div>
         </main>
       </div>
