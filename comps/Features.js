@@ -6,9 +6,6 @@ export default function Features() {
       <div className="py-12 bg-white">
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
-            <p className="text-base leading-6 text-indigo-600 font-semibold tracking-wide uppercase">
-              Our goal is making you leave much better than you arrived.
-            </p>
             <h3 className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
               What is it?
             </h3>
@@ -80,8 +77,7 @@ export default function Features() {
                       We got the best matrices, pillows and bedsheets - Smart
                       temperature controls on the rooms. Natural soaps and oils
                       that you'll love. Lot's of comfy place to relax and take a
-                      naps. You'll be rested and be super confortable for all
-                      the fun.
+                      naps. You'll be rested and have the best sleep ever.
                     </p>
                   </div>
                 </div>
@@ -110,10 +106,10 @@ export default function Features() {
                       Meals and Cooking classes
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
-                      All meals are included with a high quality, locally
-                      sourced ingredientes. Some of them may even come from our
-                      farm. If you'd like to participate we'll turn the meal
-                      preparation into a cooking class.
+                      All meals are included with high quality, locally sourced
+                      ingredientes. Some of them may even come from our farm. If
+                      you'd like to participate we'll turn the meal preparation
+                      into a cooking class.
                     </p>
                   </div>
                 </div>

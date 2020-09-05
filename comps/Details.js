@@ -46,7 +46,12 @@ export default function Details() {
               <p className="mt-3 text-lg leading-7 text-gray-500">
                 We are a family operated 100% costarrican ecological project -
                 our mission is about creating spaces for connection with mother
-                nature.
+                nature. Consider us if you are looking for an authentic and
+                fulfilling expedition.
+              </p>
+              <p className="mt-0 text-sm leading-7 text-purple-500">
+                We aren't a tourism company and avoid the Expedia Group & AirBnb
+                side of the internet.
               </p>
               <ul className="mt-10">
                 <li>
@@ -70,14 +75,14 @@ export default function Details() {
                     </div>
                     <div className="ml-4">
                       <h5 className="text-lg leading-6 font-medium text-gray-900">
-                        How is Us?
+                        Who is us?
                       </h5>
                       <p className="mt-2 text-base leading-6 text-gray-500">
-                        My nickname is monkey and I married a primatologist. We
-                        both arrive here in our youth and then Martino came
-                        along. When we arrived here something changed in us,
-                        something wonderfull. In a way we discovered our
-                        connection with mother nature.
+                        My nickname is monkey and I'm married to a biologist
+                        specialized in primates. We both arrive here in our
+                        youth and then Martino came along. When we arrived here
+                        something changed in us, something wonderfull. In a way
+                        we discovered our connection with mother nature.
                       </p>
                     </div>
                   </div>
@@ -106,10 +111,10 @@ export default function Details() {
                         It's about creating the conditions
                       </h5>
                       <p className="mt-2 text-base leading-6 text-gray-500">
-                        Our role is to create the conditions so that our
-                        visitors can truly realize where they are and hopefully
-                        that this place gives you the most beautiful gift - the
-                        gift of belonging.
+                        Our role is to create the conditions so that you can
+                        truly realize where you are and hopefully that this
+                        place gives you the most beautiful gift: remembering
+                        where your belong.
                       </p>
                     </div>
                   </div>
@@ -141,8 +146,8 @@ export default function Details() {
                         We believe the best way to experience this paradise is
                         to be engaged with it and why not have fun doing it! We
                         have all sorts of activities both adventures and
-                        natural, we offer opportunities to rest and relax deeply
-                        and plan the meals to connect it all.
+                        natural, we also offer unique opportunities to rest and
+                        relax with an unpresendente depth.
                       </p>
                     </div>
                   </div>
@@ -258,13 +263,46 @@ export default function Details() {
                       </div>
                       <div className="ml-4">
                         <h5 className="text-lg leading-6 font-medium text-gray-900">
+                          The Jungle University
+                        </h5>
+                        <p className="mt-2 text-base leading-6 text-gray-500">
+                          During my first visit to Corcovado National Park I had
+                          a dream, in it mother nature explained to me that this
+                          place is some sort of university where we humans could
+                          remember the most importante lessons just by spending
+                          some quality with her.
+                        </p>
+                      </div>
+                    </div>
+                  </li>
+                  <li className="mt-10">
+                    <div className="flex">
+                      <div className="flex-shrink-0">
+                        <div className="flex items-center justify-center h-12 w-12 rounded-md bg-indigo-500 text-white">
+                          <svg
+                            className="h-6 w-6"
+                            fill="none"
+                            viewBox="0 0 24 24"
+                            stroke="currentColor"
+                          >
+                            <path
+                              strokeLinecap="round"
+                              strokeLinejoin="round"
+                              strokeWidth={2}
+                              d="M7 8h10M7 12h4m1 8l-4-4H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-3l-4 4z"
+                            />
+                          </svg>
+                        </div>
+                      </div>
+                      <div className="ml-4">
+                        <h5 className="text-lg leading-6 font-medium text-gray-900">
                           Meditation & Contemplation
                         </h5>
                         <p className="mt-2 text-base leading-6 text-gray-500">
                           Around the property there are pods to sit and
                           contemplate nature, meditate or fall sleep to the
-                          soothing sounds of the jungle ( headphones not
-                          required )
+                          soothing sounds of the jungle. We got hammocks and
+                          pillows everywhere. We also have fresh water pods!
                         </p>
                       </div>
                     </div>
@@ -290,13 +328,13 @@ export default function Details() {
                       </div>
                       <div className="ml-4">
                         <h5 className="text-lg leading-6 font-medium text-gray-900">
-                          Yoga , Chi Kung, Tai Chi
+                          Yoga, Qi Gong, Tai Chi.
                         </h5>
                         <p className="mt-2 text-base leading-6 text-gray-500">
                           On the beach we have a platform perfect to strech or
                           practice the arts of body and mind. Sunrise is the
-                          perfect time to use it when Una Puh rises right in
-                          front with spectacular colors.
+                          perfect time to use it when KunaPu ( Sun in Maya )
+                          rises right in front with spectacular colors.
                         </p>
                       </div>
                     </div>
