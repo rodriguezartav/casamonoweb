@@ -232,8 +232,9 @@ Leaving: "duration-100 ease-in"
           />
         </div>
 
-        <div className="max-w-2xl text-center text-gray-500 text-lg mx-auto mt-20">
-          Where the jungle meets the beach with nothing and no one around.
+        <div className="max-w-2xl text-center text-gray-800 text-lg mx-auto mt-20">
+          Meet us where the jungle meets the beach with nothing and no one
+          around.
           <br />
           Carefully designed spaces meant to connect with nature while providing
           an exclusive level of comfort with great food and all activities
