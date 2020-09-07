@@ -42,7 +42,7 @@ export default function Price() {
                   </div>
                   <p className="mt-5 text-lg leading-7 text-gray-500">
                     3 amazing meals with 24/7 coffee, te 5
-                    beers/sodas/juices/day. International and local chef
+                    beers/sodas/juices/day. International and local gourmet chef
                     designed cusine.
                   </p>
                 </div>
