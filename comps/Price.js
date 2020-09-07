@@ -125,7 +125,7 @@ export default function Price() {
                         </svg>
                       </div>
                       <p className="ml-3 text-base leading-6 text-gray-700">
-                        Gourmet day delivered from EnBoca in San Jose
+                        Gourmet food delivered from En-Boca in San Jose
                       </p>
                     </li>
                   </ul>
