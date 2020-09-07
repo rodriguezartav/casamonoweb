@@ -31,7 +31,7 @@ export default function Price() {
                       className="inline-flex px-4 py-1 rounded-full text-sm leading-5 font-semibold tracking-wide uppercase bg-indigo-100 text-indigo-600"
                       id="tier-standard"
                     >
-                      All inclusive
+                      All inclusive - the food will surprise you
                     </h3>
                   </div>
                   <div className="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
