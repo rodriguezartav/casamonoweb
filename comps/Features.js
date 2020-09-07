@@ -7,9 +7,9 @@ export default function Features() {
         <div className="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="lg:text-center">
             <p className="mb-12 mt-12 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-              You'll feel like you're renting an area of a national park all for
-              yourself. A private beach, a jungle filled with wildlife and hotel
-              amenities for 1 to 25 people.
+              Carefully designed spaces meant to connect with nature while
+              providing an exclusive level of comfort with great food and all
+              activities included
               <br />
             </p>
           </div>

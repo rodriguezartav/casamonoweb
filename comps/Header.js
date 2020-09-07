@@ -238,9 +238,9 @@ Leaving: "duration-100 ease-in"
             around.
           </span>
           <br />
-          Carefully designed spaces meant to connect with nature while providing
-          an exclusive level of comfort with great food and all activities
-          included
+          You'll feel like you're renting an area of a national park all for
+          yourself. A private beach, a jungle filled with wildlife and hotel
+          amenities for 1 to 25 people.
         </div>
 
         <main className="mt-6 mx-auto max-w-3xl sm:mt-16  ">
