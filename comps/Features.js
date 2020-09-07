@@ -69,13 +69,14 @@ export default function Features() {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-lg leading-6 font-medium text-gray-900">
-                      Accomodations
+                      Eco Boutique Accomodations
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
-                      We got the best matrices, pillows and bedsheets - Smart
-                      temperature controls on the rooms. Natural soaps and oils
-                      that you'll love. Lot's of comfy places to relax and take
-                      naps. You'll be rested and have the best sleep ever.
+                      Our rooms got the natural feeling of glamping with the
+                      comfort of your homes master bedroom. Profesionally
+                      designed spaces, great matrices, pillows and bedsheets,
+                      smart temperature controls on the rooms, natural soaps and
+                      oils and wild bathrooms. It's an experience.
                     </p>
                   </div>
                 </div>
@@ -105,8 +106,8 @@ export default function Features() {
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       Fully equipped kitchen, with ingredients for local &
-                      international cousine. With a large comfy lounge that
-                      works as group headquarters
+                      international cousine. Next to a large comfy lounge with
+                      hammocks,
                     </p>
                   </div>
                 </div>
