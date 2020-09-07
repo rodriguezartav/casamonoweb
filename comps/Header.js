@@ -173,7 +173,7 @@ Leaving: "duration-100 ease-in"
             around.
           </span>
           <br />
-          You'll feel like you're renting an area of a national park all for
+          You'll feel like you're renting part of a national park all for
           yourself. A private beach, a jungle filled with wildlife and hotel
           amenities for 1 to 25 people.
         </div>
