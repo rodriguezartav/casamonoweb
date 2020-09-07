@@ -107,7 +107,7 @@ export default function Features() {
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       Fully equipped kitchen, with ingredients for local &
                       international cousine. Next to a large comfy lounge with
-                      hammocks,
+                      hammocks. Bonefires, BBQ. saltwater pods.
                     </p>
                   </div>
                 </div>
