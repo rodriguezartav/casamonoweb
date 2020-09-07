@@ -35,14 +35,15 @@ export default function Price() {
                     </h3>
                   </div>
                   <div className="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
-                    $130
+                    $145
                     <span className="ml-1 text-2xl leading-8 font-medium text-gray-500">
                       /person/night
                     </span>
                   </div>
                   <p className="mt-5 text-lg leading-7 text-gray-500">
-                    3 amazing meals with 24/7 coffee, tee and fruit juice bar
-                    and 5 beers/sodas/day. International and local cusine
+                    3 amazing meals with 24/7 coffee, te 5
+                    beers/sodas/juices/day. International and local chef
+                    designed cusine.
                   </p>
                 </div>
                 <div className="flex-1 flex flex-col justify-between px-6 pt-6 pb-8 bg-gray-50 space-y-6 sm:p-10 sm:pt-6">
@@ -150,7 +151,7 @@ export default function Price() {
                     </h3>
                   </div>
                   <div className="mt-4 flex items-baseline text-6xl leading-none font-extrabold">
-                    $65
+                    $69
                     <span className="ml-1 text-2xl leading-8 font-medium text-gray-500">
                       /person/night
                     </span>
@@ -263,12 +264,11 @@ export default function Price() {
               <div className="flex-1">
                 <div>
                   <h3 className="inline-flex px-4 py-1 rounded-full text-sm leading-5 font-semibold tracking-wide uppercase bg-white text-gray-800">
-                    Kids are welcomed
+                    It's really fun and safe for kids and baby's.
                   </h3>
                 </div>
                 <div className="mt-4 text-lg leading-7 text-gray-600">
-                  All kids under 4 years old staying with their parents stay and
-                  eat for free.
+                  All kids under 6 years old stay for 50% off
                   <strong className="font-semibold text-gray-900">
                     <br />
                     Activities for kids are also free of charge
