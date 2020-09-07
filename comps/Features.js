@@ -41,9 +41,9 @@ export default function Features() {
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       Do what you want, when you want free of charge. Choose
-                      from surfing or paddleboarding, fishing, tree climbing,
-                      swinging, hiking, wildlife watching, mountain bikining,
-                      horseback riding and nature photography.
+                      from surfing, fishing, paddleboarding, kayaking, tree
+                      climbing, swinging, hiking, wildlife spotting, mountain
+                      bikining and more.
                     </p>
                   </div>
                 </div>
