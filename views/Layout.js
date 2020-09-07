@@ -54,7 +54,6 @@ export default function MyApp(props) {
 
       <Header />
       {props.children}
-      <Footer />
     </React.Fragment>
   );
 }

@@ -39,9 +39,6 @@ export default function Home(props) {
 
       <Details />
       <Price />
-      <Blog />
-
-      <Testimonials />
 
       <div className="container mx-auto my-14"></div>
     </Layout>
