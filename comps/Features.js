@@ -9,7 +9,7 @@ export default function Features() {
             <p className="mb-12 mt-12 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
               Carefully designed spaces meant to connect with nature while
               providing an exclusive level of comfort with great food and all
-              activities included
+              activities included.
               <br />
             </p>
           </div>
@@ -37,7 +37,7 @@ export default function Features() {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-lg leading-6 font-medium text-gray-900">
-                      All activities and guides are included
+                      All activities and equipment included
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       Do what you want, when you want free of charge. Choose
@@ -74,7 +74,7 @@ export default function Features() {
                     <p className="mt-2 text-base leading-6 text-gray-500">
                       We got the best matrices, pillows and bedsheets - Smart
                       temperature controls on the rooms. Natural soaps and oils
-                      that you'll love. Lot's of comfy place to relax and take
+                      that you'll love. Lot's of comfy places to relax and take
                       naps. You'll be rested and have the best sleep ever.
                     </p>
                   </div>
@@ -101,13 +101,12 @@ export default function Features() {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-lg leading-6 font-medium text-gray-900">
-                      Meals and Cooking classes
+                      Profesional Kitchen & Lounge
                     </h4>
                     <p className="mt-2 text-base leading-6 text-gray-500">
-                      All meals are included with high quality, locally sourced
-                      ingredientes. Some of them may even come from our farm. If
-                      you'd like to participate we'll turn the meal preparation
-                      into a cooking class.
+                      Fully equipped kitchen, with ingredients for local &
+                      international cousine. With a large comfy lounge that
+                      works as group headquarters
                     </p>
                   </div>
                 </div>

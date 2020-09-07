@@ -80,32 +80,6 @@ export default function Header() {
                 </button>
               </div>
             </div>
-            <div className="hidden md:block md:ml-10">
-              <a
-                href="#"
-                className="font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"
-              >
-                Product
-              </a>
-              <a
-                href="#"
-                className="ml-10 font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"
-              >
-                Features
-              </a>
-              <a
-                href="#"
-                className="ml-10 font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"
-              >
-                Marketplace
-              </a>
-              <a
-                href="#"
-                className="ml-10 font-medium text-gray-500 hover:text-gray-900 transition duration-150 ease-in-out"
-              >
-                Company
-              </a>
-            </div>
           </div>
           <div className="hidden md:block text-right">
             <span className="inline-flex rounded-md shadow-md">
@@ -167,45 +141,6 @@ Leaving: "duration-100 ease-in"
                     </svg>
                   </button>
                 </div>
-              </div>
-              <div className="px-2 pt-2 pb-3">
-                <a
-                  href="#"
-                  className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out"
-                  role="menuitem"
-                >
-                  Product
-                </a>
-                <a
-                  href="#"
-                  className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out"
-                  role="menuitem"
-                >
-                  Features
-                </a>
-                <a
-                  href="#"
-                  className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out"
-                  role="menuitem"
-                >
-                  Marketplace
-                </a>
-                <a
-                  href="#"
-                  className="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out"
-                  role="menuitem"
-                >
-                  Company
-                </a>
-              </div>
-              <div>
-                <a
-                  href="#"
-                  className="block w-full px-5 py-3 text-center font-medium text-red-600 bg-gray-50 hover:bg-gray-100 hover:text-red-700 focus:outline-none focus:bg-gray-100 focus:text-red-700 transition duration-150 ease-in-out"
-                  role="menuitem"
-                >
-                  Log in
-                </a>
               </div>
             </div>
           </div>
